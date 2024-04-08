@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .image-container {
+    overflow: hidden;
+    display: inline-block; /* Added this line */
+  }
+  
+  img {
+    display: block;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .image-container:hover img {
+    transform: rotate(90deg); /* Adjust the angle as needed */
+  }
+  
