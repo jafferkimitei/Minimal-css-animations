@@ -1,0 +1,33 @@
+body {
+    height: 2000px; /* To create scrollable content */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .content {
+    padding: 50px;
+  }
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    line-height: 100px;
+    position: relative;
+    top: 300px; /* Initial position */
+    opacity: 0; /* Initially hidden */
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  
+  .text {
+    opacity: 0; /* Initially hidden */
+    transition: opacity 0.5s ease;
+  }
+  
+  .text.show {
+    opacity: 1; /* Show the text when revealed */
+  }
+  
