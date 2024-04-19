@@ -1,0 +1,51 @@
+list of 50 animations you can create at an intermediate level using CSS:
+
+Hover color change
+Hover scale effect
+Hover rotate effect
+Hover opacity change
+Hover underline effect
+Hover border change
+Hover background color change
+Hover box shadow effect
+Button pulse effect
+Button slide in from left
+Button slide in from right
+Button slide up
+Button slide down
+Button fade in
+Button fade out
+Dropdown menu slide down
+Dropdown menu slide up
+Dropdown menu fade in
+Dropdown menu fade out
+Menu slide in from left
+Menu slide in from right
+Menu slide down
+Menu slide up
+Menu fade in
+Menu fade out
+Image zoom on hover
+Image grayscale to color on hover
+Image blur to clear on hover
+Image rotate on hover
+Image flip on hover
+Card flip effect
+Card slide in from left
+Card slide in from right
+Card slide up
+Card fade in
+Card fade out
+Modal slide in from left
+Modal slide in from right
+Modal slide up
+Modal slide down
+Modal fade in
+Modal fade out
+Loading spinner animation
+Scroll reveal animation
+Text typing animation
+Text slide in from left
+Text slide in from right
+Text slide up
+Text slide down
