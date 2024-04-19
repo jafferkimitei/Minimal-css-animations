@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .typing-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .typing-text {
+    font-size: 36px;
+    border-right: 2px solid #333;
+    white-space: nowrap;
+    overflow: hidden;
+    margin: 0;
+    padding: 10px;
+    animation: typing 2s steps(30, end);
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+  }
+  
